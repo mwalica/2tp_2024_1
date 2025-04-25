@@ -1,0 +1,60 @@
+* {
+    font-family: Tahoma;
+}
+
+.banner-1, .banner-2 {
+    background-color: #003d33;
+    color: white;
+    text-align: center;
+    height: 50px;
+    float: left;
+}
+
+.banner-1 {
+    width: 70%;
+}
+
+.banner-2 {
+    width: 30%;
+}
+
+.left {
+    background-color: #26a69a;
+    height: 550px;
+    width: 30%;
+    clear: both;
+    float: left;
+}
+
+.right {
+    background-color: #26a69a;
+    height: 550px;
+    width: 70%;
+    float: left;
+}
+
+footer {
+    background-color: #003d33;
+    color: white;
+}
+
+.wizytowka {
+    width: 400px;
+    margin: 30px;
+    text-align: center;
+    border: 1px solid #003d33
+}
+
+.btn {
+    display:block;
+    background-color: #003d33;
+    color: white;
+    width: 100%;
+    height: 30px;
+    border: none;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #004c40;
+}
